@@ -1,4 +1,4 @@
-const narate = alert("Welcome to calculator for numbers divisible by 2 and 3");
+const narate = alert("Welcome to this program used for calculating numbers divisible by 2 and 3");
 const num_input = prompt("Enter any number of your choice: ")
 let userInput = parseInt(num_input);
 
